@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on (soon to be) riotsu.com</title>
+    <link>http://rmdegennaro.github.io/gohugo_site/tags/linux/</link>
+    <description>Recent content in Linux on (soon to be) riotsu.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 13 Sep 2017 19:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rmdegennaro.github.io/gohugo_site/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An IBM T42 with Manjaro</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</link>
+      <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
+      <description>I&amp;rsquo;ve taken quite a liking to Manjaro. All the random tasks I&amp;rsquo;ve used it for have turned out extremely well. Enough so that I want to go beyond those very directed needs and do a general review. And I&amp;rsquo;ll start out by installing Manjaro on my IBM/Lenovo T42.
+Which is a little late since they just announced deprecating 32-bit / i686 support. So, since I did all this work over a few months, I figure I might as well put out this post.</description>
+    </item>
+    
+    <item>
+      <title>Manjaro, a distro that I&#39;m really digging</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
+      <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
+      <description>Linux &amp;ldquo;distros&amp;rdquo; are many. Linux is awesome that way: scratch an itch, climb that mountain, being as satisfied as a cat. I encourage folks to explore. Head over to Distro Watch to start exploring.
+But what makes one stick to a distro? Its a very personal thing. This is the Internet, so I&amp;rsquo;m shouting out what&amp;rsquo;s important to me. :-) A bit of history first. I started in 1997 with Red Hat, moved to Gentoo to learn nuts and bolts, then ended up using Kubuntu because I liked things &amp;ldquo;that just worked&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

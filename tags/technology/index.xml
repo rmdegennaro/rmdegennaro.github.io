@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on (soon to be) riotsu.com</title>
+    <link>http://rmdegennaro.github.io/gohugo_site/tags/technology/</link>
+    <description>Recent content in Technology on (soon to be) riotsu.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://rmdegennaro.github.io/gohugo_site/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Use of Hugo</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</link>
+      <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</guid>
+      <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/ I&amp;rsquo;ve been searching for a static website generator not a CMS. For the uninitiated, or you don&amp;rsquo;t want to read the links, a CMS creates the pages a viewer see dynamically when the page is requested (sometime cached), based on looking up data and using templates of sorts to generate pages. A Static Site Generator uses data and templates but pages are generated once during &amp;ldquo;build time&amp;rdquo; and the same stuff is displayed until data/files are changed and another &amp;ldquo;build&amp;rdquo; happens.</description>
+    </item>
+    
+    <item>
+      <title>Modding a NuVision TM800W560L Tablet</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
+      <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
+      <description>So a friend gave me a NuVision tm800w560l tablet running Windows 10. Honestly I tried to use it, but it was a joke. From the start with it not connecting to WiFi because Windows 10 wanted uppercase alpha characters even though every other Linux, Android, Mac OS X or iOS device works with lower case. To the fact that the on screen keyboard would hide where I was typing. To the periodic hick-ups.</description>
+    </item>
+    
+    <item>
+      <title>An IBM T42 with Manjaro</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</link>
+      <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
+      <description>I&amp;rsquo;ve taken quite a liking to Manjaro. All the random tasks I&amp;rsquo;ve used it for have turned out extremely well. Enough so that I want to go beyond those very directed needs and do a general review. And I&amp;rsquo;ll start out by installing Manjaro on my IBM/Lenovo T42.
+Which is a little late since they just announced deprecating 32-bit / i686 support. So, since I did all this work over a few months, I figure I might as well put out this post.</description>
+    </item>
+    
+    <item>
+      <title>Manjaro, a distro that I&#39;m really digging</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
+      <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
+      <description>Linux &amp;ldquo;distros&amp;rdquo; are many. Linux is awesome that way: scratch an itch, climb that mountain, being as satisfied as a cat. I encourage folks to explore. Head over to Distro Watch to start exploring.
+But what makes one stick to a distro? Its a very personal thing. This is the Internet, so I&amp;rsquo;m shouting out what&amp;rsquo;s important to me. :-) A bit of history first. I started in 1997 with Red Hat, moved to Gentoo to learn nuts and bolts, then ended up using Kubuntu because I liked things &amp;ldquo;that just worked&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
