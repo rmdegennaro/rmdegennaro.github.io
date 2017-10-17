@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/gohugo_site/tags/</link>
+    <link>http://rmdegennaro.github.io/tags/</link>
     <description>Recent content in Tags on (soon to be) riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/gohugo_site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rmdegennaro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/development/</link>
+      <link>http://rmdegennaro.github.io/tags/development/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/development/</guid>
+      <guid>http://rmdegennaro.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distro</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/distro/</link>
+      <link>http://rmdegennaro.github.io/tags/distro/</link>
       <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/distro/</guid>
+      <guid>http://rmdegennaro.github.io/tags/distro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distros</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/distros/</link>
+      <link>http://rmdegennaro.github.io/tags/distros/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/distros/</guid>
+      <guid>http://rmdegennaro.github.io/tags/distros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/food/</link>
+      <link>http://rmdegennaro.github.io/tags/food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/food/</guid>
+      <guid>http://rmdegennaro.github.io/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/hardware/</link>
+      <link>http://rmdegennaro.github.io/tags/hardware/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/hardware/</guid>
+      <guid>http://rmdegennaro.github.io/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian Food</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/indian-food/</link>
+      <link>http://rmdegennaro.github.io/tags/indian-food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/indian-food/</guid>
+      <guid>http://rmdegennaro.github.io/tags/indian-food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian Food</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/italian-food/</link>
+      <link>http://rmdegennaro.github.io/tags/italian-food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/italian-food/</guid>
+      <guid>http://rmdegennaro.github.io/tags/italian-food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/linux/</link>
+      <link>http://rmdegennaro.github.io/tags/linux/</link>
       <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/linux/</guid>
+      <guid>http://rmdegennaro.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modding</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/modding/</link>
+      <link>http://rmdegennaro.github.io/tags/modding/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/modding/</guid>
+      <guid>http://rmdegennaro.github.io/tags/modding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/recipes/</link>
+      <link>http://rmdegennaro.github.io/tags/recipes/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/recipes/</guid>
+      <guid>http://rmdegennaro.github.io/tags/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/technology/</link>
+      <link>http://rmdegennaro.github.io/tags/technology/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/technology/</guid>
+      <guid>http://rmdegennaro.github.io/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Websites</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tags/websites/</link>
+      <link>http://rmdegennaro.github.io/tags/websites/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tags/websites/</guid>
+      <guid>http://rmdegennaro.github.io/tags/websites/</guid>
       <description></description>
     </item>
     

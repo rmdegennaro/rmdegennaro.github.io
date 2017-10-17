@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/gohugo_site/</link>
+    <link>http://rmdegennaro.github.io/</link>
     <description>Recent content on (soon to be) riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/gohugo_site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rmdegennaro.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Use of Hugo</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</link>
+      <link>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</guid>
       <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/ I&amp;rsquo;ve been searching for a static website generator not a CMS. For the uninitiated, or you don&amp;rsquo;t want to read the links, a CMS creates the pages a viewer see dynamically when the page is requested (sometime cached), based on looking up data and using templates of sorts to generate pages. A Static Site Generator uses data and templates but pages are generated once during &amp;ldquo;build time&amp;rdquo; and the same stuff is displayed until data/files are changed and another &amp;ldquo;build&amp;rdquo; happens.</description>
     </item>
     
     <item>
       <title>Modding a NuVision TM800W560L Tablet</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
+      <link>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
       <description>So a friend gave me a NuVision tm800w560l tablet running Windows 10. Honestly I tried to use it, but it was a joke. From the start with it not connecting to WiFi because Windows 10 wanted uppercase alpha characters even though every other Linux, Android, Mac OS X or iOS device works with lower case. To the fact that the on screen keyboard would hide where I was typing. To the periodic hick-ups.</description>
     </item>
     
     <item>
       <title>An IBM T42 with Manjaro</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</link>
+      <link>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</link>
       <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
       <description>I&amp;rsquo;ve taken quite a liking to Manjaro. All the random tasks I&amp;rsquo;ve used it for have turned out extremely well. Enough so that I want to go beyond those very directed needs and do a general review. And I&amp;rsquo;ll start out by installing Manjaro on my IBM/Lenovo T42.
 Which is a little late since they just announced deprecating 32-bit / i686 support. So, since I did all this work over a few months, I figure I might as well put out this post.</description>
     </item>
     
     <item>
       <title>Manjaro, a distro that I&#39;m really digging</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
+      <link>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
       <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
       <description>Linux &amp;ldquo;distros&amp;rdquo; are many. Linux is awesome that way: scratch an itch, climb that mountain, being as satisfied as a cat. I encourage folks to explore. Head over to Distro Watch to start exploring.
 But what makes one stick to a distro? Its a very personal thing. This is the Internet, so I&amp;rsquo;m shouting out what&amp;rsquo;s important to me. :-) A bit of history first. I started in 1997 with Red Hat, moved to Gentoo to learn nuts and bolts, then ended up using Kubuntu because I liked things &amp;ldquo;that just worked&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Banana Bread</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/banana-bread/</link>
+      <link>http://rmdegennaro.github.io/blog/2000/01/01/banana-bread/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/banana-bread/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2000/01/01/banana-bread/</guid>
       <description>Introduction: This is a family recipe, not sure how long, but I got it from my mom.
 Ingredients:  3 bananas, mashed 3 eggs, beaten slightly 1 cup sugar OR 2&amp;frasl;3 cup honey 2 cups flour 1&amp;frasl;4 cup soy flour 2 tbsp wheat germ 2 tbsp brewer&amp;rsquo;s yeast 2 tsp. baking powder 1 tsp baking soda 1&amp;frasl;4 tsp salt 1 tsp vanilla 2&amp;frasl;3 cup oil 2&amp;frasl;3 cup orange juice  Instructions: Preheat oven to 350 degrees, mix all ingredients together, bake in 10&amp;rdquo; tube pan for ~55 minutes.</description>
     </item>
     
     <item>
       <title>Chicken Korma</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/chicken-korma/</link>
+      <link>http://rmdegennaro.github.io/blog/2000/01/01/chicken-korma/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/chicken-korma/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2000/01/01/chicken-korma/</guid>
       <description>Introduction: This recipe started with me trying to figure out how something was made at a restaurant. It&amp;rsquo;s evolved over time where I&amp;rsquo;ve tweaked things as I felt necessary.
 Ingredients:  2 lbs. chicken breasts &amp;amp; thighs (boneless, skinless) 2 cups yogurt (I like firm greek yogurt) 2 tbs butter 1 green chillies (diced) 4 garlic cloves (crushed) whole peppercorns whole cloves whole cardamom seeds cumin tumeric black pepper saffron  Instructions: Cook cloves, peppercorns &amp;amp; cardamom seeds in oil.</description>
     </item>
     
     <item>
       <title>DeGennaro Tomato Sauce</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/degennaro-tomato-sauce/</link>
+      <link>http://rmdegennaro.github.io/blog/2000/01/01/degennaro-tomato-sauce/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/degennaro-tomato-sauce/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2000/01/01/degennaro-tomato-sauce/</guid>
       <description>Introduction: This is mostly off the top of my head. I&amp;rsquo;ve tweaked this as I&amp;rsquo;ve made it and remembered to edit it. I&amp;rsquo;m sorry that when I make it I don&amp;rsquo;t really think, I just go. It is based on a family recipe passed down. I.e. mostly traditional, but varied over the generations. So this is the basic idea, I&amp;rsquo;ll do more for &amp;ldquo;insight&amp;rdquo; into a good sauce at some point.</description>
     </item>
     
     <item>
       <title>Hot &amp; Sweet Shrimp</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/hot-sweet-shrimp/</link>
+      <link>http://rmdegennaro.github.io/blog/2000/01/01/hot-sweet-shrimp/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/hot-sweet-shrimp/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2000/01/01/hot-sweet-shrimp/</guid>
       <description>Introduction: I copied this down from a package. I&amp;rsquo;m trying to tweak it to my pleasure with real spices/ingredients, not what is included in the pre-fab package.
 Ingredients:  1 lbs. shrimp (shelled) 2 onions (diced) 4 tomatoes (diced) 2 tbs tomato puree 4 garlic cloves (crushed) 3 green chillies (diced) 2 tbs sugar (raw best) couple dashes coriander couple dashes cumin couple dashes tumeric couple dashes red chili powder couple dashes amchoor (mango powder) couple dashes garam masala  Instructions: Fry onions with oil until golden brown.</description>
     </item>
     
     <item>
       <title>Memories of Madras Curry</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/memories-of-madras-curry/</link>
+      <link>http://rmdegennaro.github.io/blog/2000/01/01/memories-of-madras-curry/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2000/01/01/memories-of-madras-curry/</guid>
+      <guid>http://rmdegennaro.github.io/blog/2000/01/01/memories-of-madras-curry/</guid>
       <description>Introduction: This is just from some scribbled notes from something I&amp;rsquo;ve done on-the-fly.
 Ingredients:  2 lbs. chicken breasts &amp;amp; thighs (boneless, skinless) 4 onions (diced) 4 tomatoes (diced) 3 green chillies (diced) 2 tbls ginger (freshly chopped/shaved) 4 garlic cloves (crushed) nutmeg whole cloves cardamom seeds couple dashes coriander couple dashes cumin couple dashes tumeric  Instructions: Grind cloves &amp;amp; cardamom in mortal &amp;amp; pestle. Heat some oil and cook clove &amp;amp; cardamom for a tiny bit.</description>
     </item>
     
     <item>
       <title>Food &amp; Recipes</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/food/</link>
+      <link>http://rmdegennaro.github.io/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/food/</guid>
+      <guid>http://rmdegennaro.github.io/food/</guid>
       <description>I love food. I like to eat, I like to cook. I&amp;rsquo;m part Italian and a cancer; what can I say? I also like to make up my own recipes, usually only reading cook books for ideas.
 Recipes are very limited right now, as I have recipes, like so much else, scattered in books, files, websites, bookmarks, scraps of paper, etc. With the new Google Sites there is not an automatic way to create a list of sub-pages.</description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/music/</link>
+      <link>http://rmdegennaro.github.io/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/music/</guid>
+      <guid>http://rmdegennaro.github.io/music/</guid>
       <description>Music is a big part of my life. I&amp;rsquo;ve been in a few bands through out my history, check that info out below. My tastes are varied and since I&amp;rsquo;ve started using Google Play Music to listen to and sync music across devices, I don&amp;rsquo;t really have something to share for my tastes. You could check out my last.fm page, but it is probably out of date by quite a number of years.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/resume/</link>
+      <link>http://rmdegennaro.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/resume/</guid>
+      <guid>http://rmdegennaro.github.io/resume/</guid>
       <description>rmdegennaro@gmail.com, linkedin.com/in/rmdegennaro
 SUMMARY Collaborative, practical, results-oriented Director Of Technology driven to guide organizations in incorporating seasoned technology. Adept identifying needs and connecting to innovative and intuitive solutions. Excels at building productive and strategic relationships and effective teams while maintaining an eye on costs and an organization’s direction.
 EMPLOYMENT HISTORY South Shore Charter Public School - Director of Technology &amp;amp; Communication (2011 – Present)  School Leadership: Collaborate with school leaders &amp;amp; teachers to determine technology systems to meet school policy, procedural and financial requirements.</description>
@@ -131,10 +131,10 @@ EMPLOYMENT HISTORY South Shore Charter Public School - Director of Technology &a
     
     <item>
       <title>Tech</title>
-      <link>http://rmdegennaro.github.io/gohugo_site/tech/</link>
+      <link>http://rmdegennaro.github.io/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/gohugo_site/tech/</guid>
+      <guid>http://rmdegennaro.github.io/tech/</guid>
       <description>Technology seems to be ever present these days. I&amp;rsquo;m not sure I&amp;rsquo;m on the cutting edge of it all, but I do play around with technology. It&amp;rsquo;s my profession; it&amp;rsquo;s a hobby.
 I keep a Google Site called Adventures in Technology. It has pages for active projects; well many have dust on them. There are also sections that are &amp;ldquo;reference manual&amp;rdquo; in nature. Basically anything that is not just a &amp;ldquo;one off&amp;rdquo; blog posting goes up there&amp;hellip;.</description>
     </item>
