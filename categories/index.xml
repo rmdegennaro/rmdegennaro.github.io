@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Music</title>
+      <link>http://rmdegennaro.github.io/categories/music/</link>
+      <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recipes</title>
       <link>http://rmdegennaro.github.io/categories/recipes/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
@@ -26,6 +35,24 @@
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
       <guid>http://rmdegennaro.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughtful</title>
+      <link>http://rmdegennaro.github.io/categories/thoughtful/</link>
+      <pubDate>Sat, 26 Feb 2011 17:39:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/categories/thoughtful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://rmdegennaro.github.io/categories/travel/</link>
+      <pubDate>Sun, 31 Dec 2006 23:31:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/categories/travel/</guid>
       <description></description>
     </item>
     

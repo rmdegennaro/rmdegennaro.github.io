@@ -21,5 +21,14 @@
       <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/ I&amp;rsquo;ve been searching for a static website generator not a CMS. For the uninitiated, or you don&amp;rsquo;t want to read the links, a CMS creates the pages a viewer see dynamically when the page is requested (sometime cached), based on looking up data and using templates of sorts to generate pages. A Static Site Generator uses data and templates but pages are generated once during &amp;ldquo;build time&amp;rdquo; and the same stuff is displayed until data/files are changed and another &amp;ldquo;build&amp;rdquo; happens.</description>
     </item>
     
+    <item>
+      <title>Developing on a Chromebook (well, CloudReady), Part 1</title>
+      <link>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</link>
+      <pubDate>Mon, 28 Nov 2016 15:38:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</guid>
+      <description>I like the idea of Chrome Apps. It is (was?) a great idea; write one app and it will run on Linux, Chrome OS, Mac and Windows (yeah, the order is telling). It&amp;rsquo;s a shame Google has announced it will stop supporting Chrome Apps on Linux, Mac and Windows. So initially this started out as a log of my adventure of making a Chrome App on Chrome OS (well a Chromium OS distro called CloudReady).</description>
+    </item>
+    
   </channel>
 </rss>

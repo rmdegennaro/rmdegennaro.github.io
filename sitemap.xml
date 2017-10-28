@@ -23,6 +23,81 @@
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</loc>
+    <lastmod>2016-11-28T15:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</loc>
+    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</loc>
+    <lastmod>2013-03-19T09:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2011/03/19/bandcamp-more-then-music-store/</loc>
+    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2011/02/26/a-new-perspective-on-taking-time-to-smell-the-roses/</loc>
+    <lastmod>2011-02-26T17:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2010/08/21/ground-zero-mosque-debate-makes-no-sense/</loc>
+    <lastmod>2010-08-21T11:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</loc>
+    <lastmod>2010-05-12T09:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2010/04/18/a-great-individual-jesse-howes/</loc>
+    <lastmod>2010-04-18T18:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</loc>
+    <lastmod>2010-02-21T12:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2009/03/13/how-to-save-the-world-part-2/</loc>
+    <lastmod>2009-03-13T23:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2009/03/11/a-thought-on-carbon-capture-and-storage-and-more-clean-air/</loc>
+    <lastmod>2009-03-11T13:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2009/01/20/election-results-2009/</loc>
+    <lastmod>2009-01-20T13:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</loc>
+    <lastmod>2008-12-09T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2008/11/22/collision-at-the-creation-ideas/</loc>
+    <lastmod>2008-11-22T22:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/blog/2006/12/31/budapest-hungary-2006/</loc>
+    <lastmod>2006-12-31T23:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/blog/2000/01/01/banana-bread/</loc>
     <lastmod>2000-01-01T12:00:00+00:00</lastmod>
   </url>
@@ -54,8 +129,26 @@
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/tags/activism/</loc>
+    <lastmod>2010-08-21T11:53:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/android/</loc>
+    <lastmod>2008-12-09T10:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/blog/</loc>
     <lastmod>2017-10-14T19:18:59-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/business/</loc>
+    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,14 +158,14 @@
   </url>
   
   <url>
-    <loc>http://rmdegennaro.github.io/tags/development/</loc>
-    <lastmod>2017-10-14T19:18:59-04:00</lastmod>
+    <loc>http://rmdegennaro.github.io/tags/chromeos/</loc>
+    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rmdegennaro.github.io/tags/distro/</loc>
-    <lastmod>2017-04-02T17:21:00+00:00</lastmod>
+    <loc>http://rmdegennaro.github.io/tags/development/</loc>
+    <lastmod>2017-10-14T19:18:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,6 +183,24 @@
   
   <url>
     <loc>http://rmdegennaro.github.io/food/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/foss/</loc>
+    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/freedom/</loc>
+    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/google/</loc>
+    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -117,13 +228,37 @@
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/tags/microsoft/</loc>
+    <lastmod>2010-02-21T12:03:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/tags/modding/</loc>
     <lastmod>2017-09-24T21:21:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/tags/music/</loc>
+    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/categories/music/</loc>
+    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/music/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/political/</loc>
+    <lastmod>2010-08-21T11:53:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -143,8 +278,14 @@
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/tags/security/</loc>
+    <lastmod>2010-02-21T12:03:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/tags/</loc>
-    <lastmod>2017-10-14T19:18:59-04:00</lastmod>
+    <lastmod>2010-08-21T11:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,8 +306,38 @@
   </url>
   
   <url>
+    <loc>http://rmdegennaro.github.io/tags/thoughtful/</loc>
+    <lastmod>2011-02-26T17:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/categories/thoughtful/</loc>
+    <lastmod>2011-02-26T17:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/travel/</loc>
+    <lastmod>2006-12-31T23:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/categories/travel/</loc>
+    <lastmod>2006-12-31T23:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rmdegennaro.github.io/tags/websites/</loc>
     <lastmod>2017-10-14T19:18:59-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rmdegennaro.github.io/tags/windows/</loc>
+    <lastmod>2010-02-21T12:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

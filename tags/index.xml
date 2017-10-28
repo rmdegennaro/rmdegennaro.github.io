@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2010 11:53:00 +0000</lastBuildDate>
     
 	<atom:link href="http://rmdegennaro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Activism</title>
+      <link>http://rmdegennaro.github.io/tags/activism/</link>
+      <pubDate>Sat, 21 Aug 2010 11:53:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/activism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://rmdegennaro.github.io/tags/android/</link>
+      <pubDate>Tue, 09 Dec 2008 10:59:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://rmdegennaro.github.io/tags/business/</link>
+      <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromeos</title>
+      <link>http://rmdegennaro.github.io/tags/chromeos/</link>
+      <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/chromeos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -18,15 +54,6 @@
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
       <guid>http://rmdegennaro.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distro</title>
-      <link>http://rmdegennaro.github.io/tags/distro/</link>
-      <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
-      
-      <guid>http://rmdegennaro.github.io/tags/distro/</guid>
       <description></description>
     </item>
     
@@ -45,6 +72,33 @@
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
       <guid>http://rmdegennaro.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foss</title>
+      <link>http://rmdegennaro.github.io/tags/foss/</link>
+      <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>http://rmdegennaro.github.io/tags/freedom/</link>
+      <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>http://rmdegennaro.github.io/tags/google/</link>
+      <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/google/</guid>
       <description></description>
     </item>
     
@@ -85,11 +139,38 @@
     </item>
     
     <item>
+      <title>Microsoft</title>
+      <link>http://rmdegennaro.github.io/tags/microsoft/</link>
+      <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modding</title>
       <link>http://rmdegennaro.github.io/tags/modding/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
       <guid>http://rmdegennaro.github.io/tags/modding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://rmdegennaro.github.io/tags/music/</link>
+      <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political</title>
+      <link>http://rmdegennaro.github.io/tags/political/</link>
+      <pubDate>Sat, 21 Aug 2010 11:53:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/political/</guid>
       <description></description>
     </item>
     
@@ -103,6 +184,15 @@
     </item>
     
     <item>
+      <title>Security</title>
+      <link>http://rmdegennaro.github.io/tags/security/</link>
+      <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Technology</title>
       <link>http://rmdegennaro.github.io/tags/technology/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
@@ -112,11 +202,38 @@
     </item>
     
     <item>
+      <title>Thoughtful</title>
+      <link>http://rmdegennaro.github.io/tags/thoughtful/</link>
+      <pubDate>Sat, 26 Feb 2011 17:39:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/thoughtful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://rmdegennaro.github.io/tags/travel/</link>
+      <pubDate>Sun, 31 Dec 2006 23:31:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Websites</title>
       <link>http://rmdegennaro.github.io/tags/websites/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
       <guid>http://rmdegennaro.github.io/tags/websites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://rmdegennaro.github.io/tags/windows/</link>
+      <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/tags/windows/</guid>
       <description></description>
     </item>
     

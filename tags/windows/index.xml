@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on (soon to be) riotsu.com</title>
+    <link>http://rmdegennaro.github.io/tags/windows/</link>
+    <description>Recent content in Windows on (soon to be) riotsu.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 Feb 2010 12:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rmdegennaro.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chuck Norris Botnet Karate-chops Routers Hard (stolen title)</title>
+      <link>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</link>
+      <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</guid>
+      <description>Yeah, cheesy title for an article (original below). But after recently having to help out too many clients and friends with virus issues, I wanted to get this article out there. Its an interesting real-life example of why you should change the password on your router, (and not leave passwords blank in general). Oh, for those who don&amp;rsquo;t speak techie, the router is what usually connects you to the Internet (whether wired or wireless).</description>
+    </item>
+    
+  </channel>
+</rss>
