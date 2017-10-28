@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/categories/tech/</link>
-    <description>Recent content in Tech on (soon to be) riotsu.com</description>
+    <title>Tech on riotsu.com</title>
+    <link>http://riotsu.com/categories/tech/</link>
+    <description>Recent content in Tech on riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riotsu.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Use of Hugo</title>
-      <link>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</link>
+      <link>http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</guid>
+      <guid>http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/</guid>
       <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/ I&amp;rsquo;ve been searching for a static website generator not a CMS. For the uninitiated, or you don&amp;rsquo;t want to read the links, a CMS creates the pages a viewer see dynamically when the page is requested (sometime cached), based on looking up data and using templates of sorts to generate pages. A Static Site Generator uses data and templates but pages are generated once during &amp;ldquo;build time&amp;rdquo; and the same stuff is displayed until data/files are changed and another &amp;ldquo;build&amp;rdquo; happens.</description>
     </item>
     
     <item>
       <title>Modding a NuVision TM800W560L Tablet</title>
-      <link>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
+      <link>http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
+      <guid>http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
       <description>So a friend gave me a NuVision tm800w560l tablet running Windows 10. Honestly I tried to use it, but it was a joke. From the start with it not connecting to WiFi because Windows 10 wanted uppercase alpha characters even though every other Linux, Android, Mac OS X or iOS device works with lower case. To the fact that the on screen keyboard would hide where I was typing. To the periodic hick-ups.</description>
     </item>
     
     <item>
       <title>An IBM T42 with Manjaro</title>
-      <link>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</link>
+      <link>http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/</link>
       <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
+      <guid>http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
       <description>I&amp;rsquo;ve taken quite a liking to Manjaro. All the random tasks I&amp;rsquo;ve used it for have turned out extremely well. Enough so that I want to go beyond those very directed needs and do a general review. And I&amp;rsquo;ll start out by installing Manjaro on my IBM/Lenovo T42.
 Which is a little late since they just announced deprecating 32-bit / i686 support. So, since I did all this work over a few months, I figure I might as well put out this post.</description>
     </item>
     
     <item>
       <title>Manjaro, a distro that I&#39;m really digging</title>
-      <link>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
+      <link>http://riotsu.com/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
       <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
+      <guid>http://riotsu.com/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
       <description>Linux &amp;ldquo;distros&amp;rdquo; are many. Linux is awesome that way: scratch an itch, climb that mountain, being as satisfied as a cat. I encourage folks to explore. Head over to Distro Watch to start exploring.
 But what makes one stick to a distro? Its a very personal thing. This is the Internet, so I&amp;rsquo;m shouting out what&amp;rsquo;s important to me. :-) A bit of history first. I started in 1997 with Red Hat, moved to Gentoo to learn nuts and bolts, then ended up using Kubuntu because I liked things &amp;ldquo;that just worked&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Developing on a Chromebook (well, CloudReady), Part 1</title>
-      <link>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</link>
+      <link>http://riotsu.com/blog/2016/11/28/developing-on-a-chromebook-part1/</link>
       <pubDate>Mon, 28 Nov 2016 15:38:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</guid>
+      <guid>http://riotsu.com/blog/2016/11/28/developing-on-a-chromebook-part1/</guid>
       <description>I like the idea of Chrome Apps. It is (was?) a great idea; write one app and it will run on Linux, Chrome OS, Mac and Windows (yeah, the order is telling). It&amp;rsquo;s a shame Google has announced it will stop supporting Chrome Apps on Linux, Mac and Windows. So initially this started out as a log of my adventure of making a Chrome App on Chrome OS (well a Chromium OS distro called CloudReady).</description>
     </item>
     
     <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
+      <link>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
+      <guid>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
       <description>So I&amp;rsquo;ve been itching to see how a ChromeOS device works. I want to see how well a ChromeBook would fill the home computing needs. Since I have this nice Dell Latitude XPS M1530, I thought I&amp;rsquo;d do some research to see if I could run ChromeOS on it.
 There is a person, Hexxeh, who provides nightly builds of the open source ChromiumOS project. These can be downloaded as bootable USB flash drive image, VMWare or VirtualBox disk images.</description>
     </item>
     
     <item>
       <title>New system. New blog entry. New distro too?</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</link>
+      <link>http://riotsu.com/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</link>
       <pubDate>Tue, 19 Mar 2013 09:14:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</guid>
+      <guid>http://riotsu.com/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</guid>
       <description>I recently had the opportunity to get an Dell XPS M1530 really cheap. So we have the home laptop and now I have a laptop to play around with. Yah!
 My intention is to blog what I do with the XPS laptop. As I have time to play with it, I&amp;rsquo;ll add new blog entries. Changing jobs and home life causing changes in focus is okay too. Right now I&amp;rsquo;ve loaded Linux Mint Debian Edition, with the Cinnamon desktop.</description>
     </item>
     
     <item>
       <title>Simple Low-resource Linux for a Virtual Machine</title>
-      <link>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
+      <link>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
       <pubDate>Wed, 12 May 2010 09:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
+      <guid>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
       <description>Okay, I work remotely in almost everything I do for work. I.e. I remote into the servers and workstations all day every day; very little gets done on my laptop except personal stuff. Whether it be development, database manipulation, webapp/system management, or regular&amp;rsquo;ol&amp;rsquo;tech-support. The projects are mostly for clients, so they stay on clients machines, but I do have my own servers.
 Also, most clients use routers (or whatever does the DHCP) out of the box at their office.</description>
     </item>
     
     <item>
       <title>Chuck Norris Botnet Karate-chops Routers Hard (stolen title)</title>
-      <link>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</link>
+      <link>http://riotsu.com/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</link>
       <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</guid>
+      <guid>http://riotsu.com/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</guid>
       <description>Yeah, cheesy title for an article (original below). But after recently having to help out too many clients and friends with virus issues, I wanted to get this article out there. Its an interesting real-life example of why you should change the password on your router, (and not leave passwords blank in general). Oh, for those who don&amp;rsquo;t speak techie, the router is what usually connects you to the Internet (whether wired or wireless).</description>
     </item>
     
     <item>
       <title>Do I Like the G1 Android phone by T-Mobile?</title>
-      <link>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
+      <link>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
       <pubDate>Tue, 09 Dec 2008 10:59:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
+      <guid>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
       <description>I&amp;rsquo;ve held back on commenting about the G1 from T-Mobile. Mostly for technical reasons and time-wise reasons. But also because I&amp;rsquo;ve been uncertain about how it will turn out and how to talk about it (mostly to non-techie people). Also, I&amp;rsquo;ve had high hopes for it and the Andriod platform. And to say my hopes have been met is not an easy thing.
 First, for the non-techies, the G1 is the phone, T-Mobile the carrier and Andriod is the OS (Operating System).</description>
     </item>

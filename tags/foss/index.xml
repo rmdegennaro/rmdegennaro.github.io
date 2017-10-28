@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Foss on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/tags/foss/</link>
-    <description>Recent content in Foss on (soon to be) riotsu.com</description>
+    <title>Foss on riotsu.com</title>
+    <link>http://riotsu.com/tags/foss/</link>
+    <description>Recent content in Foss on riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 30 Mar 2013 15:40:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riotsu.com/tags/foss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
+      <link>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
+      <guid>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
       <description>So I&amp;rsquo;ve been itching to see how a ChromeOS device works. I want to see how well a ChromeBook would fill the home computing needs. Since I have this nice Dell Latitude XPS M1530, I thought I&amp;rsquo;d do some research to see if I could run ChromeOS on it.
 There is a person, Hexxeh, who provides nightly builds of the open source ChromiumOS project. These can be downloaded as bootable USB flash drive image, VMWare or VirtualBox disk images.</description>
     </item>
     
     <item>
       <title>Simple Low-resource Linux for a Virtual Machine</title>
-      <link>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
+      <link>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
       <pubDate>Wed, 12 May 2010 09:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
+      <guid>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
       <description>Okay, I work remotely in almost everything I do for work. I.e. I remote into the servers and workstations all day every day; very little gets done on my laptop except personal stuff. Whether it be development, database manipulation, webapp/system management, or regular&amp;rsquo;ol&amp;rsquo;tech-support. The projects are mostly for clients, so they stay on clients machines, but I do have my own servers.
 Also, most clients use routers (or whatever does the DHCP) out of the box at their office.</description>
     </item>
     
     <item>
       <title>Do I Like the G1 Android phone by T-Mobile?</title>
-      <link>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
+      <link>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
       <pubDate>Tue, 09 Dec 2008 10:59:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
+      <guid>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
       <description>I&amp;rsquo;ve held back on commenting about the G1 from T-Mobile. Mostly for technical reasons and time-wise reasons. But also because I&amp;rsquo;ve been uncertain about how it will turn out and how to talk about it (mostly to non-techie people). Also, I&amp;rsquo;ve had high hopes for it and the Andriod platform. And to say my hopes have been met is not an easy thing.
 First, for the non-techies, the G1 is the phone, T-Mobile the carrier and Andriod is the OS (Operating System).</description>
     </item>

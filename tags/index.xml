@@ -1,239 +1,239 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/tags/</link>
-    <description>Recent content in Tags on (soon to be) riotsu.com</description>
+    <title>Tags on riotsu.com</title>
+    <link>http://riotsu.com/tags/</link>
+    <description>Recent content in Tags on riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 21 Aug 2010 11:53:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riotsu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Activism</title>
-      <link>http://rmdegennaro.github.io/tags/activism/</link>
+      <link>http://riotsu.com/tags/activism/</link>
       <pubDate>Sat, 21 Aug 2010 11:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/activism/</guid>
+      <guid>http://riotsu.com/tags/activism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>http://rmdegennaro.github.io/tags/android/</link>
+      <link>http://riotsu.com/tags/android/</link>
       <pubDate>Tue, 09 Dec 2008 10:59:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/android/</guid>
+      <guid>http://riotsu.com/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Business</title>
-      <link>http://rmdegennaro.github.io/tags/business/</link>
+      <link>http://riotsu.com/tags/business/</link>
       <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/business/</guid>
+      <guid>http://riotsu.com/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chromeos</title>
-      <link>http://rmdegennaro.github.io/tags/chromeos/</link>
+      <link>http://riotsu.com/tags/chromeos/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/chromeos/</guid>
+      <guid>http://riotsu.com/tags/chromeos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://rmdegennaro.github.io/tags/development/</link>
+      <link>http://riotsu.com/tags/development/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/development/</guid>
+      <guid>http://riotsu.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distros</title>
-      <link>http://rmdegennaro.github.io/tags/distros/</link>
+      <link>http://riotsu.com/tags/distros/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/distros/</guid>
+      <guid>http://riotsu.com/tags/distros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>http://rmdegennaro.github.io/tags/food/</link>
+      <link>http://riotsu.com/tags/food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/food/</guid>
+      <guid>http://riotsu.com/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foss</title>
-      <link>http://rmdegennaro.github.io/tags/foss/</link>
+      <link>http://riotsu.com/tags/foss/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/foss/</guid>
+      <guid>http://riotsu.com/tags/foss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom</title>
-      <link>http://rmdegennaro.github.io/tags/freedom/</link>
+      <link>http://riotsu.com/tags/freedom/</link>
       <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/freedom/</guid>
+      <guid>http://riotsu.com/tags/freedom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>http://rmdegennaro.github.io/tags/google/</link>
+      <link>http://riotsu.com/tags/google/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/google/</guid>
+      <guid>http://riotsu.com/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>http://rmdegennaro.github.io/tags/hardware/</link>
+      <link>http://riotsu.com/tags/hardware/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/hardware/</guid>
+      <guid>http://riotsu.com/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian Food</title>
-      <link>http://rmdegennaro.github.io/tags/indian-food/</link>
+      <link>http://riotsu.com/tags/indian-food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/indian-food/</guid>
+      <guid>http://riotsu.com/tags/indian-food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian Food</title>
-      <link>http://rmdegennaro.github.io/tags/italian-food/</link>
+      <link>http://riotsu.com/tags/italian-food/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/italian-food/</guid>
+      <guid>http://riotsu.com/tags/italian-food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://rmdegennaro.github.io/tags/linux/</link>
+      <link>http://riotsu.com/tags/linux/</link>
       <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/linux/</guid>
+      <guid>http://riotsu.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft</title>
-      <link>http://rmdegennaro.github.io/tags/microsoft/</link>
+      <link>http://riotsu.com/tags/microsoft/</link>
       <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/microsoft/</guid>
+      <guid>http://riotsu.com/tags/microsoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modding</title>
-      <link>http://rmdegennaro.github.io/tags/modding/</link>
+      <link>http://riotsu.com/tags/modding/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/modding/</guid>
+      <guid>http://riotsu.com/tags/modding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://rmdegennaro.github.io/tags/music/</link>
+      <link>http://riotsu.com/tags/music/</link>
       <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/music/</guid>
+      <guid>http://riotsu.com/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political</title>
-      <link>http://rmdegennaro.github.io/tags/political/</link>
+      <link>http://riotsu.com/tags/political/</link>
       <pubDate>Sat, 21 Aug 2010 11:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/political/</guid>
+      <guid>http://riotsu.com/tags/political/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>http://rmdegennaro.github.io/tags/recipes/</link>
+      <link>http://riotsu.com/tags/recipes/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/recipes/</guid>
+      <guid>http://riotsu.com/tags/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>http://rmdegennaro.github.io/tags/security/</link>
+      <link>http://riotsu.com/tags/security/</link>
       <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/security/</guid>
+      <guid>http://riotsu.com/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://rmdegennaro.github.io/tags/technology/</link>
+      <link>http://riotsu.com/tags/technology/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/technology/</guid>
+      <guid>http://riotsu.com/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughtful</title>
-      <link>http://rmdegennaro.github.io/tags/thoughtful/</link>
+      <link>http://riotsu.com/tags/thoughtful/</link>
       <pubDate>Sat, 26 Feb 2011 17:39:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/thoughtful/</guid>
+      <guid>http://riotsu.com/tags/thoughtful/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://rmdegennaro.github.io/tags/travel/</link>
+      <link>http://riotsu.com/tags/travel/</link>
       <pubDate>Sun, 31 Dec 2006 23:31:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/travel/</guid>
+      <guid>http://riotsu.com/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Websites</title>
-      <link>http://rmdegennaro.github.io/tags/websites/</link>
+      <link>http://riotsu.com/tags/websites/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/websites/</guid>
+      <guid>http://riotsu.com/tags/websites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://rmdegennaro.github.io/tags/windows/</link>
+      <link>http://riotsu.com/tags/windows/</link>
       <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/tags/windows/</guid>
+      <guid>http://riotsu.com/tags/windows/</guid>
       <description></description>
     </item>
     

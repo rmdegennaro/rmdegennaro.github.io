@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/blog/</link>
-    <description>Recent content in Blogs on (soon to be) riotsu.com</description>
+    <title>Blogs on riotsu.com</title>
+    <link>http://riotsu.com/blog/</link>
+    <description>Recent content in Blogs on riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riotsu.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Use of Hugo</title>
-      <link>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</link>
+      <link>http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/</link>
       <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/10/14/my-first-use-of-hugo/</guid>
+      <guid>http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/</guid>
       <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/ I&amp;rsquo;ve been searching for a static website generator not a CMS. For the uninitiated, or you don&amp;rsquo;t want to read the links, a CMS creates the pages a viewer see dynamically when the page is requested (sometime cached), based on looking up data and using templates of sorts to generate pages. A Static Site Generator uses data and templates but pages are generated once during &amp;ldquo;build time&amp;rdquo; and the same stuff is displayed until data/files are changed and another &amp;ldquo;build&amp;rdquo; happens.</description>
     </item>
     
     <item>
       <title>Modding a NuVision TM800W560L Tablet</title>
-      <link>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
+      <link>http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</link>
       <pubDate>Sun, 24 Sep 2017 21:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
+      <guid>http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/</guid>
       <description>So a friend gave me a NuVision tm800w560l tablet running Windows 10. Honestly I tried to use it, but it was a joke. From the start with it not connecting to WiFi because Windows 10 wanted uppercase alpha characters even though every other Linux, Android, Mac OS X or iOS device works with lower case. To the fact that the on screen keyboard would hide where I was typing. To the periodic hick-ups.</description>
     </item>
     
     <item>
       <title>An IBM T42 with Manjaro</title>
-      <link>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</link>
+      <link>http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/</link>
       <pubDate>Wed, 13 Sep 2017 19:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
+      <guid>http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/</guid>
       <description>I&amp;rsquo;ve taken quite a liking to Manjaro. All the random tasks I&amp;rsquo;ve used it for have turned out extremely well. Enough so that I want to go beyond those very directed needs and do a general review. And I&amp;rsquo;ll start out by installing Manjaro on my IBM/Lenovo T42.
 Which is a little late since they just announced deprecating 32-bit / i686 support. So, since I did all this work over a few months, I figure I might as well put out this post.</description>
     </item>
     
     <item>
       <title>Manjaro, a distro that I&#39;m really digging</title>
-      <link>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
+      <link>http://riotsu.com/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</link>
       <pubDate>Sun, 02 Apr 2017 17:21:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
+      <guid>http://riotsu.com/blog/2017/04/02/manjaro-a-distro-im-really-diggin/</guid>
       <description>Linux &amp;ldquo;distros&amp;rdquo; are many. Linux is awesome that way: scratch an itch, climb that mountain, being as satisfied as a cat. I encourage folks to explore. Head over to Distro Watch to start exploring.
 But what makes one stick to a distro? Its a very personal thing. This is the Internet, so I&amp;rsquo;m shouting out what&amp;rsquo;s important to me. :-) A bit of history first. I started in 1997 with Red Hat, moved to Gentoo to learn nuts and bolts, then ended up using Kubuntu because I liked things &amp;ldquo;that just worked&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Developing on a Chromebook (well, CloudReady), Part 1</title>
-      <link>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</link>
+      <link>http://riotsu.com/blog/2016/11/28/developing-on-a-chromebook-part1/</link>
       <pubDate>Mon, 28 Nov 2016 15:38:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2016/11/28/developing-on-a-chromebook-part1/</guid>
+      <guid>http://riotsu.com/blog/2016/11/28/developing-on-a-chromebook-part1/</guid>
       <description>I like the idea of Chrome Apps. It is (was?) a great idea; write one app and it will run on Linux, Chrome OS, Mac and Windows (yeah, the order is telling). It&amp;rsquo;s a shame Google has announced it will stop supporting Chrome Apps on Linux, Mac and Windows. So initially this started out as a log of my adventure of making a Chrome App on Chrome OS (well a Chromium OS distro called CloudReady).</description>
     </item>
     
     <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
+      <link>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
+      <guid>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
       <description>So I&amp;rsquo;ve been itching to see how a ChromeOS device works. I want to see how well a ChromeBook would fill the home computing needs. Since I have this nice Dell Latitude XPS M1530, I thought I&amp;rsquo;d do some research to see if I could run ChromeOS on it.
 There is a person, Hexxeh, who provides nightly builds of the open source ChromiumOS project. These can be downloaded as bootable USB flash drive image, VMWare or VirtualBox disk images.</description>
     </item>
     
     <item>
       <title>New system. New blog entry. New distro too?</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</link>
+      <link>http://riotsu.com/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</link>
       <pubDate>Tue, 19 Mar 2013 09:14:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</guid>
+      <guid>http://riotsu.com/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</guid>
       <description>I recently had the opportunity to get an Dell XPS M1530 really cheap. So we have the home laptop and now I have a laptop to play around with. Yah!
 My intention is to blog what I do with the XPS laptop. As I have time to play with it, I&amp;rsquo;ll add new blog entries. Changing jobs and home life causing changes in focus is okay too. Right now I&amp;rsquo;ve loaded Linux Mint Debian Edition, with the Cinnamon desktop.</description>
     </item>
     
     <item>
       <title>What A Find, Bandcamp.com!</title>
-      <link>http://rmdegennaro.github.io/blog/2011/03/19/bandcamp-more-then-music-store/</link>
+      <link>http://riotsu.com/blog/2011/03/19/bandcamp-more-then-music-store/</link>
       <pubDate>Sat, 19 Mar 2011 18:01:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2011/03/19/bandcamp-more-then-music-store/</guid>
+      <guid>http://riotsu.com/blog/2011/03/19/bandcamp-more-then-music-store/</guid>
       <description>Surfing can be fun. I am usually targeted in my use of the Internet, but I&amp;rsquo;m really glad I found this website.
 It started out from a potentially annoying thing. Someone whom I have no relation, nor do I have any idea why they wanted to &amp;ldquo;be my friend&amp;rdquo; on Last.fm. That site isn&amp;rsquo;t the website of interest, and I love Last.fm to get recommendations on music. Anyways, I found out it was a band that was being &amp;ldquo;sly&amp;rdquo; as also being a &amp;ldquo;user&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>A New Perspective on Taking Time to Smell the Roses</title>
-      <link>http://rmdegennaro.github.io/blog/2011/02/26/a-new-perspective-on-taking-time-to-smell-the-roses/</link>
+      <link>http://riotsu.com/blog/2011/02/26/a-new-perspective-on-taking-time-to-smell-the-roses/</link>
       <pubDate>Sat, 26 Feb 2011 17:39:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2011/02/26/a-new-perspective-on-taking-time-to-smell-the-roses/</guid>
+      <guid>http://riotsu.com/blog/2011/02/26/a-new-perspective-on-taking-time-to-smell-the-roses/</guid>
       <description>Talking with Becca this morning, two relevant thoughts merged into one and came out in the conversation. No need to go into details of that conversation; but that bit of the conversation was something I wanted to get &amp;ldquo;down on paper&amp;rdquo; (at least it feels important to do so at this point in time). It is the subject of this post and was good motivation to try to write posts again.</description>
     </item>
     
     <item>
       <title>The “Ground Zero Mosque” Debate Makes No Sense</title>
-      <link>http://rmdegennaro.github.io/blog/2010/08/21/ground-zero-mosque-debate-makes-no-sense/</link>
+      <link>http://riotsu.com/blog/2010/08/21/ground-zero-mosque-debate-makes-no-sense/</link>
       <pubDate>Sat, 21 Aug 2010 11:53:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/08/21/ground-zero-mosque-debate-makes-no-sense/</guid>
+      <guid>http://riotsu.com/blog/2010/08/21/ground-zero-mosque-debate-makes-no-sense/</guid>
       <description>I&amp;rsquo;ve decided to start posting links to articles I like. Word of mouth and discussing things among friends is what helps make the world more cohesive and ultimately a better place. It also helps lessen fear and increases strength within and without.
 So my first is this article: 3 Reasons the “Ground Zero Mosque” Debate Makes No Sense
 A highlight is that rhetoric should never replace logic. Our lives are not controlled by fear, and fear spreads.</description>
@@ -111,57 +111,57 @@ A highlight is that rhetoric should never replace logic. Our lives are not contr
     
     <item>
       <title>Simple Low-resource Linux for a Virtual Machine</title>
-      <link>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
+      <link>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</link>
       <pubDate>Wed, 12 May 2010 09:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
+      <guid>http://riotsu.com/blog/2010/05/12/simple-low-resource-linux-virtual-machine/</guid>
       <description>Okay, I work remotely in almost everything I do for work. I.e. I remote into the servers and workstations all day every day; very little gets done on my laptop except personal stuff. Whether it be development, database manipulation, webapp/system management, or regular&amp;rsquo;ol&amp;rsquo;tech-support. The projects are mostly for clients, so they stay on clients machines, but I do have my own servers.
 Also, most clients use routers (or whatever does the DHCP) out of the box at their office.</description>
     </item>
     
     <item>
       <title>A Great Individual - Jesse Howes</title>
-      <link>http://rmdegennaro.github.io/blog/2010/04/18/a-great-individual-jesse-howes/</link>
+      <link>http://riotsu.com/blog/2010/04/18/a-great-individual-jesse-howes/</link>
       <pubDate>Sun, 18 Apr 2010 18:23:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/04/18/a-great-individual-jesse-howes/</guid>
+      <guid>http://riotsu.com/blog/2010/04/18/a-great-individual-jesse-howes/</guid>
       <description>I&amp;rsquo;m sad to say that an individual of great strength, warm and perspective has passed on. I knew Jesse from working with Life Is Good and Project Joy, and really only saw him at those times. But I always remembered him and will always remember him as a great person and for the great impact he had on the world. Life Is Good has a post about Jesse Howes.</description>
     </item>
     
     <item>
       <title>Chuck Norris Botnet Karate-chops Routers Hard (stolen title)</title>
-      <link>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</link>
+      <link>http://riotsu.com/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</link>
       <pubDate>Sun, 21 Feb 2010 12:03:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</guid>
+      <guid>http://riotsu.com/blog/2010/02/21/chuck-norris-botnet-karate-chops-routers-hard/</guid>
       <description>Yeah, cheesy title for an article (original below). But after recently having to help out too many clients and friends with virus issues, I wanted to get this article out there. Its an interesting real-life example of why you should change the password on your router, (and not leave passwords blank in general). Oh, for those who don&amp;rsquo;t speak techie, the router is what usually connects you to the Internet (whether wired or wireless).</description>
     </item>
     
     <item>
       <title>How To Save The World, Part 2</title>
-      <link>http://rmdegennaro.github.io/blog/2009/03/13/how-to-save-the-world-part-2/</link>
+      <link>http://riotsu.com/blog/2009/03/13/how-to-save-the-world-part-2/</link>
       <pubDate>Fri, 13 Mar 2009 23:20:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2009/03/13/how-to-save-the-world-part-2/</guid>
+      <guid>http://riotsu.com/blog/2009/03/13/how-to-save-the-world-part-2/</guid>
       <description>After watching the movie &amp;ldquo;The Watchmen&amp;rdquo;, I had an idea. Its sorta related to the movie &amp;ldquo;Hero&amp;rdquo; as well. And can be said of any story that shows people doing extraordinary things to &amp;ldquo;save the world&amp;rdquo;. No matter the context/size of what &amp;ldquo;the world&amp;rdquo; means.
 From the start I don&amp;rsquo;t want people to think that I don&amp;rsquo;t like those movies. They inspire me to try to get better to do &amp;ldquo;extraordinary&amp;rdquo; things myself.</description>
     </item>
     
     <item>
       <title>A Thought on Carbon Capture and Storage</title>
-      <link>http://rmdegennaro.github.io/blog/2009/03/11/a-thought-on-carbon-capture-and-storage-and-more-clean-air/</link>
+      <link>http://riotsu.com/blog/2009/03/11/a-thought-on-carbon-capture-and-storage-and-more-clean-air/</link>
       <pubDate>Wed, 11 Mar 2009 13:09:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2009/03/11/a-thought-on-carbon-capture-and-storage-and-more-clean-air/</guid>
+      <guid>http://riotsu.com/blog/2009/03/11/a-thought-on-carbon-capture-and-storage-and-more-clean-air/</guid>
       <description>I just read an interesting introduction to &amp;ldquo;Carbon Capture and Storage&amp;rdquo; technology (CCS). Not bad, though I know little. One thing that I think needs a bit more thought is the storage part. They mentioned storage in geological formations deep underground. This speaks of a fundamental part that most people miss. Everything in life is a system. I guess it nice that its underground, far away and &amp;ldquo;not in my backyard&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Election Results, 2009</title>
-      <link>http://rmdegennaro.github.io/blog/2009/01/20/election-results-2009/</link>
+      <link>http://riotsu.com/blog/2009/01/20/election-results-2009/</link>
       <pubDate>Tue, 20 Jan 2009 13:41:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2009/01/20/election-results-2009/</guid>
+      <guid>http://riotsu.com/blog/2009/01/20/election-results-2009/</guid>
       <description>I haven&amp;rsquo;t posted in a while. And this one isn&amp;rsquo;t really mine. But, like many, for the first time in a long time, I look to the future with a promising smile. Thanks to Jen, Jim and Ken for their wonderful words.
 Barak Obama! Freakylicious President! Get your &amp;ldquo;Mo Jo&amp;rdquo; on! A Haiku from Jen Jag
 In bare feet by the thousands, chain-yanked off the auction block, In pinched shoes moving on northward flight, In just bought boots down the new hallways of Tuskegee, In spikes churning up the Berlin dirt under the Fuhrer’s eye, In laced-high shoes stepping through the ring to meet Schmeling In ankle high russet browns trudging through the mud of Anzio and stumbling over the crushed rock of Okinawa, In flashing feet breaking for home plate and all of Brooklyn’s approving roar, In the patent leather shoes of three little girls taking guarded steps to school, In wild gliding, unstoppable, sliding motion on the floor of the Apollo, In steel-toed GPs scrambling for cover at Tet and slogging the water-logged Mekong, In stride, linked and determined, on the march, a preacher’s shined shoes at the fore, from Selma to Montgomery, Albany, Birmingham, Chicago, and up the steps to dream in Lincoln’s shadow, that long shadow cast across the generations, across the throngs of Washington Mall who have been on the move from every corner of the country and pause now in wonder at where the weary feet have led.</description>
@@ -169,79 +169,79 @@ In bare feet by the thousands, chain-yanked off the auction block, In pinched sh
     
     <item>
       <title>Do I Like the G1 Android phone by T-Mobile?</title>
-      <link>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
+      <link>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</link>
       <pubDate>Tue, 09 Dec 2008 10:59:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
+      <guid>http://riotsu.com/blog/2008/12/09/andriod-g1-by-t-mobile/</guid>
       <description>I&amp;rsquo;ve held back on commenting about the G1 from T-Mobile. Mostly for technical reasons and time-wise reasons. But also because I&amp;rsquo;ve been uncertain about how it will turn out and how to talk about it (mostly to non-techie people). Also, I&amp;rsquo;ve had high hopes for it and the Andriod platform. And to say my hopes have been met is not an easy thing.
 First, for the non-techies, the G1 is the phone, T-Mobile the carrier and Andriod is the OS (Operating System).</description>
     </item>
     
     <item>
       <title>Collision At The Creation of Ideas</title>
-      <link>http://rmdegennaro.github.io/blog/2008/11/22/collision-at-the-creation-ideas/</link>
+      <link>http://riotsu.com/blog/2008/11/22/collision-at-the-creation-ideas/</link>
       <pubDate>Sat, 22 Nov 2008 22:37:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2008/11/22/collision-at-the-creation-ideas/</guid>
+      <guid>http://riotsu.com/blog/2008/11/22/collision-at-the-creation-ideas/</guid>
       <description>I was watching either the Daily Show or the Colbert Report the other night. Well, actually both, but I can&amp;rsquo;t remember which one started this idea. During one of them, the guest made an interesting comment (probably in his book).
 It was actually two points about &amp;ldquo;the energy crisis&amp;rdquo;. One was a larger comment about bubbles, and that when they burst, they usually leave something significant behind. And the other was related that a bubble of having 100,000 people try out ideas; with 1,000 of them being worth pursuing and 100 of them being brought to a wider audience to try and perhaps 2 having staying power.</description>
     </item>
     
     <item>
       <title>Budapest, Hungary 2006</title>
-      <link>http://rmdegennaro.github.io/blog/2006/12/31/budapest-hungary-2006/</link>
+      <link>http://riotsu.com/blog/2006/12/31/budapest-hungary-2006/</link>
       <pubDate>Sun, 31 Dec 2006 23:31:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2006/12/31/budapest-hungary-2006/</guid>
+      <guid>http://riotsu.com/blog/2006/12/31/budapest-hungary-2006/</guid>
       <description>I had the great privilege of being able to travel to Budapest, Hungary twice in 2006. I could go look up the dates, but is it really that important? :-) Below are some pictures from my trips.
 A bit of background, historically there were two cities: Buda &amp;amp; Pest. As engineering became better, bridges became better and more permanent. One of the famous ones I think is referred to as &amp;ldquo;The Chain Link Bridge&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Banana Bread</title>
-      <link>http://rmdegennaro.github.io/blog/2000/01/01/banana-bread/</link>
+      <link>http://riotsu.com/blog/2000/01/01/banana-bread/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2000/01/01/banana-bread/</guid>
+      <guid>http://riotsu.com/blog/2000/01/01/banana-bread/</guid>
       <description>Introduction: This is a family recipe, not sure how long, but I got it from my mom.
 Ingredients:  3 bananas, mashed 3 eggs, beaten slightly 1 cup sugar OR 2&amp;frasl;3 cup honey 2 cups flour 1&amp;frasl;4 cup soy flour 2 tbsp wheat germ 2 tbsp brewer&amp;rsquo;s yeast 2 tsp. baking powder 1 tsp baking soda 1&amp;frasl;4 tsp salt 1 tsp vanilla 2&amp;frasl;3 cup oil 2&amp;frasl;3 cup orange juice  Instructions: Preheat oven to 350 degrees, mix all ingredients together, bake in 10&amp;rdquo; tube pan for ~55 minutes.</description>
     </item>
     
     <item>
       <title>Chicken Korma</title>
-      <link>http://rmdegennaro.github.io/blog/2000/01/01/chicken-korma/</link>
+      <link>http://riotsu.com/blog/2000/01/01/chicken-korma/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2000/01/01/chicken-korma/</guid>
+      <guid>http://riotsu.com/blog/2000/01/01/chicken-korma/</guid>
       <description>Introduction: This recipe started with me trying to figure out how something was made at a restaurant. It&amp;rsquo;s evolved over time where I&amp;rsquo;ve tweaked things as I felt necessary.
 Ingredients:  2 lbs. chicken breasts &amp;amp; thighs (boneless, skinless) 2 cups yogurt (I like firm greek yogurt) 2 tbs butter 1 green chillies (diced) 4 garlic cloves (crushed) whole peppercorns whole cloves whole cardamom seeds cumin tumeric black pepper saffron  Instructions: Cook cloves, peppercorns &amp;amp; cardamom seeds in oil.</description>
     </item>
     
     <item>
       <title>DeGennaro Tomato Sauce</title>
-      <link>http://rmdegennaro.github.io/blog/2000/01/01/degennaro-tomato-sauce/</link>
+      <link>http://riotsu.com/blog/2000/01/01/degennaro-tomato-sauce/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2000/01/01/degennaro-tomato-sauce/</guid>
+      <guid>http://riotsu.com/blog/2000/01/01/degennaro-tomato-sauce/</guid>
       <description>Introduction: This is mostly off the top of my head. I&amp;rsquo;ve tweaked this as I&amp;rsquo;ve made it and remembered to edit it. I&amp;rsquo;m sorry that when I make it I don&amp;rsquo;t really think, I just go. It is based on a family recipe passed down. I.e. mostly traditional, but varied over the generations. So this is the basic idea, I&amp;rsquo;ll do more for &amp;ldquo;insight&amp;rdquo; into a good sauce at some point.</description>
     </item>
     
     <item>
       <title>Hot &amp; Sweet Shrimp</title>
-      <link>http://rmdegennaro.github.io/blog/2000/01/01/hot-sweet-shrimp/</link>
+      <link>http://riotsu.com/blog/2000/01/01/hot-sweet-shrimp/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2000/01/01/hot-sweet-shrimp/</guid>
+      <guid>http://riotsu.com/blog/2000/01/01/hot-sweet-shrimp/</guid>
       <description>Introduction: I copied this down from a package. I&amp;rsquo;m trying to tweak it to my pleasure with real spices/ingredients, not what is included in the pre-fab package.
 Ingredients:  1 lbs. shrimp (shelled) 2 onions (diced) 4 tomatoes (diced) 2 tbs tomato puree 4 garlic cloves (crushed) 3 green chillies (diced) 2 tbs sugar (raw best) couple dashes coriander couple dashes cumin couple dashes tumeric couple dashes red chili powder couple dashes amchoor (mango powder) couple dashes garam masala  Instructions: Fry onions with oil until golden brown.</description>
     </item>
     
     <item>
       <title>Memories of Madras Curry</title>
-      <link>http://rmdegennaro.github.io/blog/2000/01/01/memories-of-madras-curry/</link>
+      <link>http://riotsu.com/blog/2000/01/01/memories-of-madras-curry/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2000/01/01/memories-of-madras-curry/</guid>
+      <guid>http://riotsu.com/blog/2000/01/01/memories-of-madras-curry/</guid>
       <description>Introduction: This is just from some scribbled notes from something I&amp;rsquo;ve done on-the-fly.
 Ingredients:  2 lbs. chicken breasts &amp;amp; thighs (boneless, skinless) 4 onions (diced) 4 tomatoes (diced) 3 green chillies (diced) 2 tbls ginger (freshly chopped/shaved) 4 garlic cloves (crushed) nutmeg whole cloves cardamom seeds couple dashes coriander couple dashes cumin couple dashes tumeric  Instructions: Grind cloves &amp;amp; cardamom in mortal &amp;amp; pestle. Heat some oil and cook clove &amp;amp; cardamom for a tiny bit.</description>
     </item>

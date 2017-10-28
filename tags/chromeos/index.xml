@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chromeos on (soon to be) riotsu.com</title>
-    <link>http://rmdegennaro.github.io/tags/chromeos/</link>
-    <description>Recent content in Chromeos on (soon to be) riotsu.com</description>
+    <title>Chromeos on riotsu.com</title>
+    <link>http://riotsu.com/tags/chromeos/</link>
+    <description>Recent content in Chromeos on riotsu.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
     <lastBuildDate>Sat, 30 Mar 2013 15:40:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rmdegennaro.github.io/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://riotsu.com/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>
-      <link>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
+      <link>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
       
-      <guid>http://rmdegennaro.github.io/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
+      <guid>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</guid>
       <description>So I&amp;rsquo;ve been itching to see how a ChromeOS device works. I want to see how well a ChromeBook would fill the home computing needs. Since I have this nice Dell Latitude XPS M1530, I thought I&amp;rsquo;d do some research to see if I could run ChromeOS on it.
 There is a person, Hexxeh, who provides nightly builds of the open source ChromiumOS project. These can be downloaded as bootable USB flash drive image, VMWare or VirtualBox disk images.</description>
     </item>
