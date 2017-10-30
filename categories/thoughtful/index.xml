@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 26 Feb 2011 17:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jul 2011 12:12:00 +0000</lastBuildDate>
     
 	<atom:link href="http://riotsu.com/categories/thoughtful/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No One Gets Any Ice-cream</title>
+      <link>http://riotsu.com/blog/2011/07/29/no-one-gets-icecream/</link>
+      <pubDate>Fri, 29 Jul 2011 12:12:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2011/07/29/no-one-gets-icecream/</guid>
+      <description>These types of posts often start out with &amp;ldquo;I was talking with a friend&amp;rdquo;. Sooner or later I&amp;rsquo;ll stop saying that. :-) So, a story came up in our conversation about my childhood to illustrate an idea. The story first, and then the idea.
+I have one sister and one brother. There were times where we&amp;rsquo;d be getting an after dinner treat. Not to say this didn&amp;rsquo;t happen other times, but I remember it with spumoni (vanilla, chocolate, cherry) ice-cream.</description>
+    </item>
+    
+    <item>
+      <title>Kid3 Kicks, ah, Well It&#39;s A Kyamo Replacement</title>
+      <link>http://riotsu.com/blog/2011/07/26/kid3-kick-ah-well-its-a-kyamo-replacement/</link>
+      <pubDate>Tue, 26 Jul 2011 01:15:47 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2011/07/26/kid3-kick-ah-well-its-a-kyamo-replacement/</guid>
+      <description>So for ages I&amp;rsquo;ve used Kyamo to edit MP3 tags. It had been great because it edited multiple tag versions and it also not only viewed embedded album art, but allowed you to edit it. Sadly Kyamo is no longer supported in K/Ubuntu. Well, as with most FOSS, you can always grab the source and compile it yourself.
+I had wished I had time to do just that, and maybe update/maintain it.</description>
+    </item>
     
     <item>
       <title>A New Perspective on Taking Time to Smell the Roses</title>

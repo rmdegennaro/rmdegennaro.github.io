@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015)</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="Rio, RioTsu">	
+  
+
+  
+  <meta name="description" content="Rio&#39;s musing about technology, music and life.">	
+  
+
+  <meta name="generator" content="Hugo 0.29" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  
+  <link href="http://riotsu.com/css/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="http://riotsu.com/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="http://riotsu.com/css/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="http://riotsu.com/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="http://riotsu.com/img/apple-touch-icon.png" />
+  
+
+  <link href="http://riotsu.com/css/owl.carousel.css" rel="stylesheet">
+  <link href="http://riotsu.com/css/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="http://riotsu.com/index.xml" type="application/rss+xml" title="riotsu.com">
+
+  
+  <meta property="og:title" content="Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/blog/2015/11/08/using-cloudready-part1//" />
+  <meta property="og:image" content="img/logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
+
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="http://riotsu.com/">
+                    <img src="http://riotsu.com/img/logo.png" alt="Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015) logo" class="hidden-xs hidden-sm">
+                    <img src="http://riotsu.com/img/logo-small.png" alt="Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015) logo" class="visible-xs visible-sm">
+                    <span class="sr-only">Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015) - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/">Home</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/resume/">Resume</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/tech/">Tech</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/music/">Music</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/food/">Food</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/thoughtful/">Thoughtful</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/blog/">Blog</a>
+                    
+                  </li>
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+                </span>
+                    </div>
+                </form>
+
+            </div>
+            
+
+        </div>
+    </div>
+    
+
+</div>
+
+
+
+
+        </header>
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">November 8, 2015</p>
+
+                        <div id="post-content">
+                          <p>Back to blogging a bit because I&rsquo;m recovering from some surgery.  Nothing major.  Its only been almost a year and half since my last blogging.  :-)</p>
+
+<p>So last time I blogged I used my Toshiba Satellite A105-S4254 laptop to test out <a href = "http://www.android-x86.org/" target="blank">Android-x86</a>.  A fun experiment, and proved to myself that Android can be used as a desktop if you don&rsquo;t need sophisticated content creation.</p>
+
+<p>Since then I used this laptop to create my own &ldquo;<a href = "https://github.com/SSCPS/DIYChromebook" target="blank">DIY Chromebook</a>&rdquo; using Ubuntu.  It was an endeavor to lengthen the lifetime of old computers at the school I work.  We use Google Apps (Drive, Mail, Docs, Slides, etc.) and I needed Dell D620s and iMacs (whose supported OS went the way of Windows XP at Mac OS X 10.6).  I wish I had the time to document that process and how they perform.  Maybe another time.  But they are in active use and the kids like them.  And it was pretty simple to delete the whole session each time Google Chrome was closed or the whole machine rebooted.</p>
+
+<p>That wasn&rsquo;t perfect for all situations at school; nor was it good at home.  So, I had to try something new on the old Toshiba.  Which is slightly less horsepower then the machines at school, and also 32-Bit CPU.  And that new thing is CloudReady by <a href = "http://www.neverware.com/" target="blank">Neverware</a>.  They have created a distro of the real <a href = "https://www.chromium.org/chromium-os" target="blank">Chromium OS</a> that will install on <a href = "http://go.neverware.com/certifiedmodels" target="blank">many systems</a>.  Its not like my &ldquo;DIY Chromebook&rdquo; nor <a href = "http://chromixium.org/" target="blank">Chromixium</a>; both being regular distros customized in different ways to be more cloud oriented.  Instead, CloudReady is the FOSS version of Google&rsquo;s Chrome OS.</p>
+
+<p>Honestly, I&rsquo;ll eventually go back to making a true FOSS version of an OS that embraces the cloud, but does not dedicate itself to it.  My ideas are still forming, a bit different then Chromixium.  More on that as I have time (to do it and blog about it).</p>
+
+<p>Back to CloudReady.  After <a href = "http://go.neverware.com/freeinstructions" target="blank">loading it</a>, the boot up process asked me about loading Flash.  And then it performs much like any other Chromebook.  For hardware support, the trackpad is not supported and the sound is either on or off, no volume control.  Both of which happened with many distros I tried.</p>
+
+<p>I&rsquo;m using it now to write this, and can&rsquo;t complain about the performance.  For now, I think I&rsquo;ll end this post here.  There are millions of Chrome OS reviews.  Just &ldquo;bing&rdquo; around (haha) and you will find all sorts of reviews.  Nothing compares though to using it yourself though, and that is the plan for future posts.</p>
+
+                        </div>
+                        
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Search</h3>
+    </div>
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" results="0" class="form-control" placeholder="Search">
+                <input type="hidden" name="q" value="site:http://riotsu.com/">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Categories</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="nav nav-pills nav-stacked">
+            
+            <li><a href="http://riotsu.com/categories/music">music (2)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/recipes">recipes (6)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/tech">tech (21)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/thoughtful">thoughtful (9)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/travel">travel (2)</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="panel sidebar-menu">
+    <div class="panel-heading">
+      <h3 class="panel-title">Tags</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            
+            <li><a href="http://riotsu.com/tags/activism"><i class="fa fa-tags"></i> activism</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/android"><i class="fa fa-tags"></i> android</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/business"><i class="fa fa-tags"></i> business</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/chromeos"><i class="fa fa-tags"></i> chromeos</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/development"><i class="fa fa-tags"></i> development</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/distros"><i class="fa fa-tags"></i> distros</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/food"><i class="fa fa-tags"></i> food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/foss"><i class="fa fa-tags"></i> foss</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/freedom"><i class="fa fa-tags"></i> freedom</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/google"><i class="fa fa-tags"></i> google</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/hardware"><i class="fa fa-tags"></i> hardware</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/indian-food"><i class="fa fa-tags"></i> indian-food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/italian-food"><i class="fa fa-tags"></i> italian-food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/linux"><i class="fa fa-tags"></i> linux</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/microsoft"><i class="fa fa-tags"></i> microsoft</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/modding"><i class="fa fa-tags"></i> modding</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/music"><i class="fa fa-tags"></i> music</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/political"><i class="fa fa-tags"></i> political</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/recipes"><i class="fa fa-tags"></i> recipes</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/security"><i class="fa fa-tags"></i> security</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/technology"><i class="fa fa-tags"></i> technology</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/thoughtful"><i class="fa fa-tags"></i> thoughtful</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/travel"><i class="fa fa-tags"></i> travel</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/websites"><i class="fa fa-tags"></i> websites</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/windows"><i class="fa fa-tags"></i> windows</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            <p>Rio, just Rio.</p><p>rmdegennaro@gmail.com</p><p>linkedin.com/in/rmdegennaro</p>
+
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+             
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/hugo-logo.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/">My First Use of Hugo</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/NuVision-TM800W560L-2-PPImage.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/">Modding a NuVision TM800W560L Tablet</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/ibmt42.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/">An IBM T42 with Manjaro</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+             
+
+        </div>
+        
+
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2017, Ralph deGennaro; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Template by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script src="http://riotsu.com/js/hpneo.gmaps.js"></script>
+<script src="http://riotsu.com/js/gmaps.init.js"></script>
+<script src="http://riotsu.com/js/front.js"></script>
+
+
+<script src="http://riotsu.com/js/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

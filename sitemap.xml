@@ -23,8 +23,58 @@
   </url>
   
   <url>
+    <loc>http://riotsu.com/blog/2016/12/17/using-a-remix-mini-pc/</loc>
+    <lastmod>2016-12-17T18:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://riotsu.com/blog/2016/11/28/developing-on-a-chromebook-part1/</loc>
     <lastmod>2016-11-28T15:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2015/12/15/antergos-arch-made-simple/</loc>
+    <lastmod>2015-12-15T22:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2015/12/04/using-cloudready-part2/</loc>
+    <lastmod>2015-12-04T08:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2015/11/08/using-cloudready-part1/</loc>
+    <lastmod>2015-11-08T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/22/test-drive-android-x86-part6/</loc>
+    <lastmod>2014-08-22T23:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/14/test-drive-android-x86-part5/</loc>
+    <lastmod>2014-08-14T22:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/12/test-drive-android-x86-part4/</loc>
+    <lastmod>2014-08-12T22:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/09/test-drive-android-x86-part3/</loc>
+    <lastmod>2014-08-09T21:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/08/test-drive-android-x86-part2/</loc>
+    <lastmod>2014-08-08T22:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2014/08/04/test-drive-android-x86-part1/</loc>
+    <lastmod>2014-08-04T22:04:00+00:00</lastmod>
   </url>
   
   <url>
@@ -35,6 +85,16 @@
   <url>
     <loc>http://riotsu.com/blog/2013/03/19/new-system-new-blog-entry-new-distro-too/</loc>
     <lastmod>2013-03-19T09:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2011/07/29/no-one-gets-icecream/</loc>
+    <lastmod>2011-07-29T12:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/blog/2011/07/26/kid3-kick-ah-well-its-a-kyamo-replacement/</loc>
+    <lastmod>2011-07-26T01:15:47+00:00</lastmod>
   </url>
   
   <url>
@@ -130,7 +190,7 @@
   
   <url>
     <loc>http://riotsu.com/tags/android/</loc>
-    <lastmod>2008-12-09T10:59:00+00:00</lastmod>
+    <lastmod>2016-12-17T18:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,7 +213,7 @@
   
   <url>
     <loc>http://riotsu.com/tags/chromeos/</loc>
-    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+    <lastmod>2015-12-04T08:23:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,7 +241,7 @@
   
   <url>
     <loc>http://riotsu.com/tags/foss/</loc>
-    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+    <lastmod>2015-12-15T22:23:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,7 +253,7 @@
   
   <url>
     <loc>http://riotsu.com/tags/google/</loc>
-    <lastmod>2013-03-30T15:40:00+00:00</lastmod>
+    <lastmod>2015-12-04T08:23:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,14 +294,14 @@
   </url>
   
   <url>
-    <loc>http://riotsu.com/categories/music/</loc>
-    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+    <loc>http://riotsu.com/tags/music/</loc>
+    <lastmod>2011-07-26T01:15:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://riotsu.com/tags/music/</loc>
-    <lastmod>2011-03-19T18:01:00+00:00</lastmod>
+    <loc>http://riotsu.com/categories/music/</loc>
+    <lastmod>2011-07-26T01:15:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,14 +316,14 @@
   </url>
   
   <url>
-    <loc>http://riotsu.com/categories/recipes/</loc>
+    <loc>http://riotsu.com/tags/recipes/</loc>
     <lastmod>2000-01-01T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://riotsu.com/tags/recipes/</loc>
-    <lastmod>2000-01-01T12:00:00+00:00</lastmod>
+    <loc>http://riotsu.com/categories/recipes/</loc>
+    <lastmod>2011-07-26T01:15:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,26 +360,30 @@
   </url>
   
   <url>
-    <loc>http://riotsu.com/categories/thoughtful/</loc>
-    <lastmod>2011-02-26T17:39:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://riotsu.com/tags/thoughtful/</loc>
-    <lastmod>2011-02-26T17:39:00+00:00</lastmod>
+    <lastmod>2011-07-29T12:12:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://riotsu.com/categories/travel/</loc>
-    <lastmod>2006-12-31T23:31:00+00:00</lastmod>
+    <loc>http://riotsu.com/categories/thoughtful/</loc>
+    <lastmod>2011-07-29T12:12:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/thoughtful/</loc>
   </url>
   
   <url>
     <loc>http://riotsu.com/tags/travel/</loc>
     <lastmod>2006-12-31T23:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://riotsu.com/categories/travel/</loc>
+    <lastmod>2011-07-26T01:15:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   

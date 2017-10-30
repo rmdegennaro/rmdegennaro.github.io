@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015)</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="Rio, RioTsu">	
+  
+
+  
+  <meta name="description" content="Rio&#39;s musing about technology, music and life.">	
+  
+
+  <meta name="generator" content="Hugo 0.29" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  
+  <link href="http://riotsu.com/css/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="http://riotsu.com/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="http://riotsu.com/css/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="http://riotsu.com/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="http://riotsu.com/img/apple-touch-icon.png" />
+  
+
+  <link href="http://riotsu.com/css/owl.carousel.css" rel="stylesheet">
+  <link href="http://riotsu.com/css/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="http://riotsu.com/index.xml" type="application/rss+xml" title="riotsu.com">
+
+  
+  <meta property="og:title" content="Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/blog/2015/12/04/using-cloudready-part2//" />
+  <meta property="og:image" content="img/logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
+
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="http://riotsu.com/">
+                    <img src="http://riotsu.com/img/logo.png" alt="Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015) logo" class="hidden-xs hidden-sm">
+                    <img src="http://riotsu.com/img/logo-small.png" alt="Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015) logo" class="visible-xs visible-sm">
+                    <span class="sr-only">Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015) - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/">Home</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/resume/">Resume</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/tech/">Tech</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/music/">Music</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/food/">Food</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/thoughtful/">Thoughtful</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/blog/">Blog</a>
+                    
+                  </li>
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+                </span>
+                    </div>
+                </form>
+
+            </div>
+            
+
+        </div>
+    </div>
+    
+
+</div>
+
+
+
+
+        </header>
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">December 4, 2015</p>
+
+                        <div id="post-content">
+                          
+
+<p>This is getting to be really late.  I forgot to post it, and have since moved on to testing Antergos Linux.  Anyways, here is an &ldquo;almost too old to post to post&rdquo;&hellip;</p>
+
+<p>I&rsquo;ve been using <a href = "http://www.neverware.com/free/" target="blank">CloudReady</a> on an off on this laptop for a while now.  Everything works pretty swimmingly.  If you&rsquo;re into the whole Google ecosystem, then using CloudReady should be pretty seamless.</p>
+
+<p>I&rsquo;ve seen many reviews with agendas, either their own or someone else&rsquo;s.  And that goes for both proponents and opponents to the Google ecosystem.  So I won&rsquo;t do a comparison of Google&rsquo;s ecosystem vs. Microsoft&rsquo;s vs. Apple&rsquo;s vs. FOSS&rsquo;s.  And yes, they all fit the term ecosystem to me. They all overlap to some degree and we pay for the software &amp; services in them in some way. To me sayings like &ldquo;those who give up security for freedom deserve neither&rdquo; are bogus.  To me it should be more like &ldquo;those who don&rsquo;t think about what they&rsquo;re doing deserve what they get&rdquo;.</p>
+
+<p>But this wouldn&rsquo;t be much of a commentary/review if I didn&rsquo;t go through all the things I tried to do with it.  So here is goes&hellip;.</p>
+
+<h2 id="home-paperwork-tasks">Home &ldquo;Paperwork&rdquo; Tasks</h2>
+
+<p>This stuff is basically using an &ldquo;Office Suite&rdquo;.  Typing letters, keeping track of/comparing humidifiers, scanning &amp; archiving documents, etc.  We also use spreadsheets for budget &amp; spending tracking.  All this was done with Chromeapps.  There is the obvious Google Drive/Docs/Sheets.  But there is also <a href = "https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki?hl=en-US&utm_source=chrome-ntp-launcher" target="blank">Google Keep</a> and a simple program called <a href = "https://chrome.google.com/webstore/detail/scan/pmnllmkmjilbojkpgplbdmckghmaocjh?hl=en-US&utm_source=chrome-ntp-launcher" target="blank">Scan</a> (make sure your scanner is SANE compatible).  We&rsquo;ve been doing things this way in Google Chrome on Kubuntu, and there aren&rsquo;t any differences on CloudReady.</p>
+
+<p>With Google Keep, one not only gets all their notes on their phone (both <a href = "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en" target="blank">Android</a> and <a href = "https://itunes.apple.com/us/app/google-keep-your-thoughts/id1029207872?mt=8" target="blank">iPhone</a>).  They also get it <a href = "https://keep.google.com/" target="blank">on the web</a> or as a <a href = "https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki" target="blank">Chromeapp</a> on any Chromebook or desktop/laptop with Chrome.  Including CloudReady.  And the best part is you can share each note with others now!  The &ldquo;honey-do&rdquo; list and the &ldquo;groceries on way home&rdquo; list.</p>
+
+<p>Another really cool thing is the ability to save things directly to Google Drive.  Google Chrome as an extension that is <a href = "https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en-US&utm_source=chrome-ntp-launcher" target="blank">Save to Google Drive</a>.  Honestly, I didn&rsquo;t test to see if it was automatically installed for my account or there from me using it on Google Chrome.  Anyways, the &ldquo;Files&rdquo; app allows you to do the same thing.  If I use the Scan app or download any file in Chrome, I can choose My Drive as a destination.  Slick!</p>
+
+<p>It also syncs all the Google format files to the laptop so I can edit them offline.  A drawback that I noticed is that not all file types are synced for offline use.  If Google&rsquo;s OCR was a bit better, I&rsquo;d just convert my PDFs to docs.  But it (and most others) are not quite there yet.  So not syncing of PDFs and other like documents might be inconvenient for the traveler who can&rsquo;t find or pay for wireless internet access.</p>
+
+<h2 id="music-online-100-offline-0">Music, Online 100%, Offline 0%</h2>
+
+<p>I like to listen to music with nearly everything I do.  And Google Play Music is great because it lets me listen to my collection of CDs.  Google allows you to upload tons of songs now (like 50K?).  I have both Android and iOs devices that I sync playlists (some the same, some different) depending on the device.  Which playlist varies on size of storage, typical usage, or who might be listening in when I&rsquo;m using it.  Very cool!</p>
+
+<p>But alas, the Chromebook does not provide a way to sync with Google Play Music.  Any playlist I create can be played through the Play Music chromeapp.  And I could download music, but its manually laborious and there is no native player.</p>
+
+<p>This would be a huge downfall for those coming from Windows or Mac OS X.  Because I know they only have the one device when they travel.  :-P  Until Google releases the native player, streaming or my phone is what I&rsquo;m stuck with.  I know, life is horrible.</p>
+
+<h2 id="movie-watching">Movie watching</h2>
+
+<p>Netflix, done.  Google Play Movies, done.  YouTube, done.  Hulu, done.  The offline playing is again an issue.  But I assume the native player will play stuff in the local downloads as well as (I hope) sync to your titles in Google Play Movies (and Google Play Music).</p>
+
+<h2 id="coming-next">Coming Next&hellip;</h2>
+
+<p>Now I have to keep at my distro testing.  :-)  And to keep it focused, and help me flesh out thoughts and data for &ldquo;needs analysis&rdquo;, I&rsquo;m going to try to get to a disconnected cloud setup.  I thought I&rsquo;d start with next time with another distro for this old machine, <a href = "http://www.tinycorelinux.net/" target="blank">TinyCore</a> Linux.  But now I&rsquo;m going to go with <a href = "https://antergos.com/" target="blank">Antergos</a> Linux.  And then setup a small partition for both TinyCore and probably <a href = "http://www.linuxfromscratch.org/lfs/" target="blank">LFS</a>.</p>
+
+                        </div>
+                        
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Search</h3>
+    </div>
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" results="0" class="form-control" placeholder="Search">
+                <input type="hidden" name="q" value="site:http://riotsu.com/">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Categories</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="nav nav-pills nav-stacked">
+            
+            <li><a href="http://riotsu.com/categories/music">music (2)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/recipes">recipes (6)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/tech">tech (21)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/thoughtful">thoughtful (9)</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/categories/travel">travel (2)</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="panel sidebar-menu">
+    <div class="panel-heading">
+      <h3 class="panel-title">Tags</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            
+            <li><a href="http://riotsu.com/tags/activism"><i class="fa fa-tags"></i> activism</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/android"><i class="fa fa-tags"></i> android</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/business"><i class="fa fa-tags"></i> business</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/chromeos"><i class="fa fa-tags"></i> chromeos</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/development"><i class="fa fa-tags"></i> development</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/distros"><i class="fa fa-tags"></i> distros</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/food"><i class="fa fa-tags"></i> food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/foss"><i class="fa fa-tags"></i> foss</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/freedom"><i class="fa fa-tags"></i> freedom</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/google"><i class="fa fa-tags"></i> google</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/hardware"><i class="fa fa-tags"></i> hardware</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/indian-food"><i class="fa fa-tags"></i> indian-food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/italian-food"><i class="fa fa-tags"></i> italian-food</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/linux"><i class="fa fa-tags"></i> linux</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/microsoft"><i class="fa fa-tags"></i> microsoft</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/modding"><i class="fa fa-tags"></i> modding</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/music"><i class="fa fa-tags"></i> music</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/political"><i class="fa fa-tags"></i> political</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/recipes"><i class="fa fa-tags"></i> recipes</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/security"><i class="fa fa-tags"></i> security</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/technology"><i class="fa fa-tags"></i> technology</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/thoughtful"><i class="fa fa-tags"></i> thoughtful</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/travel"><i class="fa fa-tags"></i> travel</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/websites"><i class="fa fa-tags"></i> websites</a>
+            </li>
+            
+            <li><a href="http://riotsu.com/tags/windows"><i class="fa fa-tags"></i> windows</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            <p>Rio, just Rio.</p><p>rmdegennaro@gmail.com</p><p>linkedin.com/in/rmdegennaro</p>
+
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+             
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/hugo-logo.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/10/14/my-first-use-of-hugo/">My First Use of Hugo</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/NuVision-TM800W560L-2-PPImage.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/09/24/modding-a-nuvision-tm800w560l-tablet/">Modding a NuVision TM800W560L Tablet</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/">
+                          
+                            <img src="http://riotsu.com/img/blogposts/ibmt42.jpg" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://riotsu.com/blog/2017/09/13/ibm-t42-with-manjaro/">An IBM T42 with Manjaro</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+             
+
+        </div>
+        
+
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2017, Ralph deGennaro; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Template by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script src="http://riotsu.com/js/hpneo.gmaps.js"></script>
+<script src="http://riotsu.com/js/gmaps.init.js"></script>
+<script src="http://riotsu.com/js/front.js"></script>
+
+
+<script src="http://riotsu.com/js/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

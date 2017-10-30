@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 30 Mar 2013 15:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Dec 2015 08:23:00 +0000</lastBuildDate>
     
 	<atom:link href="http://riotsu.com/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015)</title>
+      <link>http://riotsu.com/blog/2015/12/04/using-cloudready-part2/</link>
+      <pubDate>Fri, 04 Dec 2015 08:23:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2015/12/04/using-cloudready-part2/</guid>
+      <description>This is getting to be really late. I forgot to post it, and have since moved on to testing Antergos Linux. Anyways, here is an &amp;ldquo;almost too old to post to post&amp;rdquo;&amp;hellip;
+I&amp;rsquo;ve been using CloudReady on an off on this laptop for a while now. Everything works pretty swimmingly. If you&amp;rsquo;re into the whole Google ecosystem, then using CloudReady should be pretty seamless.
+I&amp;rsquo;ve seen many reviews with agendas, either their own or someone else&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015)</title>
+      <link>http://riotsu.com/blog/2015/11/08/using-cloudready-part1/</link>
+      <pubDate>Sun, 08 Nov 2015 01:00:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2015/11/08/using-cloudready-part1/</guid>
+      <description>Back to blogging a bit because I&amp;rsquo;m recovering from some surgery. Nothing major. Its only been almost a year and half since my last blogging. :-)
+So last time I blogged I used my Toshiba Satellite A105-S4254 laptop to test out Android-x86. A fun experiment, and proved to myself that Android can be used as a desktop if you don&amp;rsquo;t need sophisticated content creation.
+Since then I used this laptop to create my own &amp;ldquo;DIY Chromebook&amp;rdquo; using Ubuntu.</description>
+    </item>
     
     <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>

@@ -51,6 +51,97 @@ But what makes one stick to a distro? Its a very personal thing. This is the Int
     </item>
     
     <item>
+      <title>antergos, Arch made simple</title>
+      <link>http://riotsu.com/blog/2015/12/15/antergos-arch-made-simple/</link>
+      <pubDate>Tue, 15 Dec 2015 22:23:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2015/12/15/antergos-arch-made-simple/</guid>
+      <description>Hello again, back at my distro hopping. Well, not really, the main machines (desktop and laptop) are still Kubuntu. But if there were a distro to switch to, it might be antergos Linux. At least at first &amp;ldquo;blush&amp;rdquo;. Wow, easy install, easy setup, easy updates. And it feels snappy&amp;hellip;
+More details to come. For now, the machine is a Toshiba Satellite A105-S4254: Intel Dual Core T2050 / 1.6 GHz, 3GB RAM, 7200RPM SATA hard drive.</description>
+    </item>
+    
+    <item>
+      <title>Using CloudReady, A Linux/Chromium OS Distro - Part 2 (12/04/2015)</title>
+      <link>http://riotsu.com/blog/2015/12/04/using-cloudready-part2/</link>
+      <pubDate>Fri, 04 Dec 2015 08:23:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2015/12/04/using-cloudready-part2/</guid>
+      <description>This is getting to be really late. I forgot to post it, and have since moved on to testing Antergos Linux. Anyways, here is an &amp;ldquo;almost too old to post to post&amp;rdquo;&amp;hellip;
+I&amp;rsquo;ve been using CloudReady on an off on this laptop for a while now. Everything works pretty swimmingly. If you&amp;rsquo;re into the whole Google ecosystem, then using CloudReady should be pretty seamless.
+I&amp;rsquo;ve seen many reviews with agendas, either their own or someone else&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Using CloudReady, A Linux/Chromium OS Distro - Part 1 (11/8/2015)</title>
+      <link>http://riotsu.com/blog/2015/11/08/using-cloudready-part1/</link>
+      <pubDate>Sun, 08 Nov 2015 01:00:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2015/11/08/using-cloudready-part1/</guid>
+      <description>Back to blogging a bit because I&amp;rsquo;m recovering from some surgery. Nothing major. Its only been almost a year and half since my last blogging. :-)
+So last time I blogged I used my Toshiba Satellite A105-S4254 laptop to test out Android-x86. A fun experiment, and proved to myself that Android can be used as a desktop if you don&amp;rsquo;t need sophisticated content creation.
+Since then I used this laptop to create my own &amp;ldquo;DIY Chromebook&amp;rdquo; using Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part VI (8/15/2014 - 8/22/2014)</title>
+      <link>http://riotsu.com/blog/2014/08/22/test-drive-android-x86-part6/</link>
+      <pubDate>Fri, 22 Aug 2014 23:07:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/22/test-drive-android-x86-part6/</guid>
+      <description>Finishing up my chronicling of using an old laptop that is now running Android-x86. It was running Windows XP. And I hate to throw away useful hardware, but also don&amp;rsquo;t want to use an out-of-date insecure operating system.
+Where we last left off was a bit of a hiccup in things. Nothing major, but things were unstable when I had two Google accounts configured at the same time. After I removed the extra account, things have been running smoothly for a while.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part V (8/13/2014 - 8/14/2014)</title>
+      <link>http://riotsu.com/blog/2014/08/14/test-drive-android-x86-part5/</link>
+      <pubDate>Thu, 14 Aug 2014 22:41:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/14/test-drive-android-x86-part5/</guid>
+      <description>Most of my posts on the topic of running Android-x86 on my old former Windows XP laptop have been positive. And I&amp;rsquo;d say I&amp;rsquo;m still positive in general.
+Some bad news though is that a bunch of updates for Apps came down and now things are blowing up when I have more then one Google account setup. It took some efforts in trouble shooting and a few reloads in various ways.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part IV (8/10/2014 - 8/12/2014)</title>
+      <link>http://riotsu.com/blog/2014/08/12/test-drive-android-x86-part4/</link>
+      <pubDate>Tue, 12 Aug 2014 22:06:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/12/test-drive-android-x86-part4/</guid>
+      <description>Okay, a busy weekend, so I haven&amp;rsquo;t had time to do much. Sunday was disc (ultimate frisbee-ish), and a bit of work. So no time to do anything on this Android-x86 laptop.
+And yesterday, Monday, all I really had time to do was update to Android-x86&amp;rsquo;s first 4.4 release. There isn&amp;rsquo;t any OTA updates, but you can still download the ISO, boot to it, and perform an upgrade just like OTA update.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part III (8/9/2014)</title>
+      <link>http://riotsu.com/blog/2014/08/09/test-drive-android-x86-part3/</link>
+      <pubDate>Sat, 09 Aug 2014 21:47:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/09/test-drive-android-x86-part3/</guid>
+      <description>So its Saturday. I&amp;rsquo;d thought I&amp;rsquo;d have time to do some additional work related stuff and play on my Android-x86 laptop. But alas, because of errands and usual Saturday shtiff, not much time to play. But I did do some stuff:
+ Work had power outage, so was emailing and IM&amp;rsquo;ing on the Android laptop. Also had to look up some stuff to IM my tech support guy who went on site.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part II (over a few days)</title>
+      <link>http://riotsu.com/blog/2014/08/08/test-drive-android-x86-part2/</link>
+      <pubDate>Fri, 08 Aug 2014 22:04:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/08/test-drive-android-x86-part2/</guid>
+      <description>I&amp;rsquo;ve been really busy, so haven&amp;rsquo;t had time to keep track of the little I did well. This is basically chronicling my experiment of using Android-x86 on a laptop that used to run Windows XP. Here is a recap of a couple of days combined.
+8/5/2014  Checked email, easy to do when brain-dead from a long day. Played Andor&amp;rsquo;s Trail a little bit. Noticed the cut and paste semantics feel a bit odd, but that&amp;rsquo;s because keyboard shortcuts are not available.</description>
+    </item>
+    
+    <item>
+      <title>Android x86, Part I (8/4/2014)</title>
+      <link>http://riotsu.com/blog/2014/08/04/test-drive-android-x86-part1/</link>
+      <pubDate>Mon, 04 Aug 2014 22:04:00 +0000</pubDate>
+      
+      <guid>http://riotsu.com/blog/2014/08/04/test-drive-android-x86-part1/</guid>
+      <description>I have an old Toshiba 32-Bit laptop that had Windows XP on it. And since Windows XP is no longer supported, I decided to put Android-x86 on it. I did this a while back, but haven&amp;rsquo;t had the chance to play with it much. My plan now is to use it as my main laptop and keep a log of what I do or can&amp;rsquo;t do on it for the next bit&amp;hellip;.</description>
+    </item>
+    
+    <item>
       <title>ChromiumOS on my XPS M1530 (and other computers)</title>
       <link>http://riotsu.com/blog/2013/03/30/chromiumos-on-my-xps-m1530-and-other-computers/</link>
       <pubDate>Sat, 30 Mar 2013 15:40:00 +0000</pubDate>
