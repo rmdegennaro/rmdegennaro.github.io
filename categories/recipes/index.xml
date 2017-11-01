@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Jul 2011 01:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://riotsu.com/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kid3 Kicks, ah, Well It&#39;s A Kyamo Replacement</title>
-      <link>http://riotsu.com/blog/2011/07/26/kid3-kick-ah-well-its-a-kyamo-replacement/</link>
-      <pubDate>Tue, 26 Jul 2011 01:15:47 +0000</pubDate>
-      
-      <guid>http://riotsu.com/blog/2011/07/26/kid3-kick-ah-well-its-a-kyamo-replacement/</guid>
-      <description>So for ages I&amp;rsquo;ve used Kyamo to edit MP3 tags. It had been great because it edited multiple tag versions and it also not only viewed embedded album art, but allowed you to edit it. Sadly Kyamo is no longer supported in K/Ubuntu. Well, as with most FOSS, you can always grab the source and compile it yourself.
-I had wished I had time to do just that, and maybe update/maintain it.</description>
-    </item>
     
     <item>
       <title>Banana Bread</title>
